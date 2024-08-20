@@ -8,4 +8,4 @@ if resp == random.choice(n):
     print('Processando...')
     print(f'Parabéns você acertou o número pensando')
 else:
-    print(f'Você não acertou')
+    print(f'Você não acertou');
